@@ -1,0 +1,7 @@
+.dog-head {
+    margin-top: 20px;
+    display: block;
+    border-radius: 50% 50%;
+    width: 200px;
+    overflow: hidden;
+}

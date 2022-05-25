@@ -1,0 +1,14 @@
+html {
+    background-color: white;
+    font-size: 20px;
+}
+
+ul {
+    background: lightblue;
+    padding: 10px;
+    border: 1px solid lightgrey;
+}
+
+li {
+    margin-left: 20px;
+}
